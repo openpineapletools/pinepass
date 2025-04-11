@@ -1,0 +1,42 @@
+{
+  "name": "pinepass",
+  "version": "0.0.1",
+  "description": "A simple password manager using JSON-based encrypted config files (.config.opinepass).",
+  "keywords": [
+    "password-manager",
+    "encryption",
+    "aes",
+    "secure-storage",
+    "pinepass",
+    "json",
+    "cli"
+  ],
+  "homepage": "https://github.com/openpineapletools/pinepass#readme",
+  "bugs": {
+    "url": "https://github.com/openpineapletools/pinepass/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openpineapletools/pinepass.git"
+  },
+  "license": "MIT",
+  "author": "openpineaplehub",
+  "type": "commonjs",
+  "main": "pinepass/pinepass.js",
+  "bin": {
+    "pinepass": "pinepass/pinepass.js"
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
