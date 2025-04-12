@@ -14,7 +14,7 @@ Todo Lits Pinepass Project And Cofiguration
 >[!NOTE]
 >This Section Support `CRUD` method
 
-- [ ] config `.env`
+- [x] config `.env`
 - [ ] config `{exampleInputName}.config.pinepass.json`
 - [ ] config System{
         - [ ] configToken
@@ -53,12 +53,12 @@ Todo Lits Pinepass Project And Cofiguration
 ## CRUD SYSTEM TO ALL `FUNCTION APPS`
 
 - [ ] crudSystemAdd
-- [ ] version
-- [ ] lic
-- [ ] documentation
-- [ ] issue
-- [ ] report
-- [ ] contacUs
+- [x] version
+- [x] lic
+- [x] documentation
+- [x] issue
+- [x] report
+- [x] contacUs
 
 
 ## 🛡️ Sistem Keamanan Pinepass

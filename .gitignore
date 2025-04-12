@@ -1,0 +1,93 @@
+test/
+sync/
+dits/
+deploy/
+node_modules/
+tools/
+
+pinepasspy/
+pinepassJs/
+actions-runner/
+.husky/
+
+eslint.config.mjs
+
+
+# =====================
+# Node/Bun Essentials
+# =====================
+
+node_modules/
+bun.lockb
+bun.lockb.backup
+
+# Output folders
+dist/
+build/
+out/
+.tmp/
+.cache/
+.next/
+.vercel/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Bun development temp
+.bun/
+
+# IDEs/editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Testing & coverage
+coverage/
+*.lcov
+
+# Env & secrets
+.env
+.env.*
+*.env.local
+.envrc
+*.secret
+
+# Git-related (if using submodules or actions)
+.git/
+.github/
+.gitattributes
+.gitmodules
+
+# Action Runners
+*.pid
+action-runner/
+
+# Others
+*.swp
+*.bak
+*.tmp
+*.temp
+*.log
+
+# OS X specific
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
