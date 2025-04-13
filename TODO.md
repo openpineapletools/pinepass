@@ -15,44 +15,42 @@ Todo Lits Pinepass Project And Cofiguration
 >This Section Support `CRUD` method
 
 - [x] config `.env`
-- [ ] config `{exampleInputName}.config.pinepass.json`
-- [ ] config System{
-        - [ ] configToken
-        - [ ] configGetToken
-        - [ ] configTestToken
-        - [ ] convigVerifiedToken
+- [x] config `{exampleInputName}.config.pinepass.json`
+- [x] config System{
+        - [x] configToken
+        - [x] configGetToken
+        - [x] configTestToken
+        - [x] convigVerifiedToken
         }
-- [ ] config gh org acount
-
 ## Login to gh
 
-- [ ] loginTest
+- [x] loginTest
 - [ ] loginVerif
-- [ ] TestReadJsonEncrypt
+- [x] TestReadJsonEncrypt
 
 ## function/
 
 - [x] init
 - [x] .env
-- [ ] config
-- [ ] pharaphase
-- [ ] import
-- [ ] executeRuner
-- [ ] connetAllToMAin
+- [x] config
+- [x] pharaphase
+- [x] import
+- [x] executeRuner
+- [x] connetAllToMAin
 
 ---
 
-- [ ] encryptMethod
-- [ ] decryptMethod
-- [ ] ReadFormRawGithubMethod
-- [ ] printoTerminal
-- [ ] debug
-- [ ] savety save
-- [ ] GenerateFernetKey
+- [x] encryptMethod
+- [x] decryptMethod
+- [x] ReadFormRawGithubMethod
+- [x] printoTerminal
+- [x] debug
+- [x] savety save
+- [x] GenerateFernetKey
 
 ## CRUD SYSTEM TO ALL `FUNCTION APPS`
 
-- [ ] crudSystemAdd
+- [x] crudSystemAdd
 - [x] version
 - [x] lic
 - [x] documentation
@@ -72,7 +70,7 @@ Todo Lits Pinepass Project And Cofiguration
 
 - [ ] 🔒 Enkripsi Environment & Konfigurasi
   - [ ] Simpan `username`, `token`, dan key penting di `.env`
-  - [ ] Encrypt file `.json` init menggunakan `fernet` + key dari `.env`
+  - [x] Encrypt file `.json` init menggunakan `fernet` + key dari `.env`
   - [ ] Hindari hardcode di dalam source code
 
 ### 🧾 Signature & Validasi Distribusi
