@@ -39,6 +39,13 @@
   <img src="https://img.shields.io/badge/version-0.0.1-blue?style=flat-square" alt="Version" />
 </p>
 
+<h2>Execute system</h2>
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1359199910171381900/1361555496376598559/whiteboard_20250415T111324.png?ex=67ff2ede&is=67fddd5e&hm=dd3c14338c0c85298739cb50485b5032efea52a70976471906bb8e6f020773d1&" alt="executtem" style="max-width: 100%; height: auto;" />
+</div>
+
+
 <div align="center">
   <img src="./src/img/resources/ilustration/kedbowehwedhowie.png" alt="Hero Banner" style="max-width: 100%; height: auto;" />
 </div>
